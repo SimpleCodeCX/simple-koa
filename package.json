@@ -1,0 +1,17 @@
+{
+  "name": "simple-koa",
+  "version": "1.0.0",
+  "description": "simple koa",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "Simple",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
